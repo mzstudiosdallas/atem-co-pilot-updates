@@ -6,7 +6,7 @@
         <description>Most recent updates to ATEM Co-Pilot</description>
         <language>en</language>
 
-    <!-- VERSION 1.0.7 -->
+<!-- VERSION 1.0.7 -->
         <item>
             <title>Version 1.0.7</title>
             <description><![CDATA[
@@ -21,7 +21,6 @@
             ]]></description>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
-            <link>https://github.com/mzstudiosdallas/atem-co-pilot-updates/releases/download/v1.0.7/ATEM-Co-Pilot-1.0.7.zip</link>
             <pubDate>Wed, 03 Dec 2024 23:30:00 +0000</pubDate>
             <enclosure 
                 url="https://github.com/mzstudiosdallas/atem-co-pilot-updates/releases/download/v1.0.7/ATEM-Co-Pilot-1.0.7.zip" 
@@ -32,6 +31,7 @@
             />
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
+
         <!-- VERSION 1.0.4 -->
         <item>
             <title>Version 1.0.4</title>
