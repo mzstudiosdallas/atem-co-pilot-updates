@@ -24,13 +24,13 @@
             <link>https://github.com/mzstudiosdallas/atem-co-pilot-updates/releases/download/v1.0.7/ATEM-Co-Pilot-1.0.7.zip</link>
             <sparkle:releaseNotesLink>https://github.com/mzstudiosdallas/atem-co-pilot-updates/releases/tag/v1.0.7</sparkle:releaseNotesLink>
             <pubDate>Wed, 03 Dec 2024 23:30:00 +0000</pubDate>
-            <enclosure 
-                url="https://github.com/mzstudiosdallas/atem-co-pilot-updates/releases/download/v1.0.7/ATEM-Co-Pilot-1.0.7.zip" 
-                sparkle:version="7" 
-                sparkle:shortVersionString="1.0.7" 
-                length="YOUR_FILE_SIZE_IN_BYTES" 
-                type="application/octet-stream" 
-            />
+         <enclosure 
+    url="https://github.com/mzstudiosdallas/atem-co-pilot-updates/releases/download/v1.0.7/ATEM-Co-Pilot-1.0.7.zip" 
+    sparkle:version="7" 
+    sparkle:shortVersionString="1.0.7" 
+    length="15099494" 
+    type="application/octet-stream" 
+/>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
         
