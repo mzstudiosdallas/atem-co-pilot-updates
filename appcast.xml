@@ -15,7 +15,7 @@
                     <li><strong>About Window:</strong> Added mzStudios logo to the About page</li>
                     <li><strong>Debug Logs:</strong> New "Copy Logs" button to easily copy logs to clipboard</li>
                     <li><strong>Debug Logs:</strong> New "Send to mzStudios" button that opens email with log file for support</li>
-                    <li><strong>Bug Fix:</strong> Fixed update checker displaying incorrect version numbers!</li>
+                    <li><strong>Bug Fix:</strong> Fixed update checker displaying incorrect version numbers</li>
                 </ul>
                 <p><em>Improvements to make troubleshooting and support easier!</em></p>
             ]]></description>
@@ -23,7 +23,7 @@
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <pubDate>Wed, 03 Dec 2024 23:30:00 +0000</pubDate>
             <enclosure 
-                url="https://github.com/mzstudiosdallas/atem-co-pilot-updates/releases/download/v1.0.7/ATEM-Co-Pilot-1.0.7.zip" 
+                url="https://github.com/mzstudiosdallas/atem-co-pilot-updates/releases/download/v1.0.7/ATEM-Co-Pilot-v1.0.7.zip" 
                 sparkle:version="7" 
                 sparkle:shortVersionString="1.0.7" 
                 length="15099494" 
