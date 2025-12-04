@@ -15,7 +15,7 @@
                     <li><strong>About Window:</strong> Added mzStudios logo to the About page</li>
                     <li><strong>Debug Logs:</strong> New "Copy Logs" button to easily copy logs to clipboard</li>
                     <li><strong>Debug Logs:</strong> New "Send to mzStudios" button that opens email with log file for support</li>
-                    <li><strong>Bug Fix:</strong> Fixed update checker displaying incorrect version numbers</li>
+                    <li><strong>Bug Fix:</strong> Fixed update checker displaying incorrect version numbers!</li>
                 </ul>
                 <p><em>Improvements to make troubleshooting and support easier!</em></p>
             ]]></description>
